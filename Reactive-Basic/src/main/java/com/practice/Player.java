@@ -1,4 +1,4 @@
-package com.wilson.basic;
+package com.practice;
 
 public class Player {
     

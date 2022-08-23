@@ -6,7 +6,7 @@ import java.util.List;
 
 import org.junit.jupiter.api.Test;
 
-import com.wilson.basic.Player;
+import com.practice.Player;
 
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
